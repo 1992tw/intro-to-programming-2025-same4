@@ -14,7 +14,7 @@ Topics will be covered as the lesson progresses.
 
 ## Status
 
-pending
+complete
 
 ## Subsections
 
@@ -82,7 +82,7 @@ No quizzes available
 
 ## Supplemental Videos
 
-No supplemental videos available
+- [https://www.youtube.com/results?search_query=mon+amour+guitar+concert](https://www.youtube.com/results?search_query=mon+amour+guitar+concert)
 
 ## References
 
